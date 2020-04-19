@@ -4,6 +4,6 @@ This repository contains solutions to common requests around Red Hat's OpenShift
 
 # Who Am I
 
-I am Christian Heidenreich. I joined Red Hat through the CoreOS acquisition around 2018 and since then, I am the Product Manager for Monitoring and recently got the please to take care of Logging as well.
+I am Christian Heidenreich. I joined Red Hat through the CoreOS acquisition around 2018 and since then, I am the Product Manager for Monitoring and recently got the pleasure to take care of Logging as well.
 
 Please join me in my journey to uncover what's behind OpenShift and solve common use cases.

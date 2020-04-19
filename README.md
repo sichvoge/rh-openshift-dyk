@@ -1,4 +1,4 @@
-# Red Hat OpenShift - Did you know?
+# Red Hat OpenShift - Do you know?
 
 This repository contains solutions to common requests around Red Hat's OpenShift you may not knew before. Right now, I am planning to add short articles around Logging and Monitoring.
 
